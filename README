@@ -3,3 +3,4 @@ GCC 7.3.0
 LinuxMint-19
 
 A Qt/c++ implementation for calculationg an option's implied volatility from Peter Jaeckel's paper 'Let's be rational'. 
+Example is in main.cpp
